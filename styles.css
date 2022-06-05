@@ -22,14 +22,10 @@ main{
   z-index: -1;
 }
 h1 { 
-  max-width: 70%;
   font-size: 3rem;
   color: whitesmoke;
-  letter-spacing: 7px;
+  letter-spacing: 5px;
   z-index: 2;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 .btns{
   background-color: whitesmoke;
