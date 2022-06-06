@@ -82,3 +82,8 @@ main::after{
   height: 100vh;
   z-index: 1;
 }
+@media(max-width:600px){
+  h1{
+    max-width: 80%;
+  }
+}
